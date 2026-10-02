@@ -6,18 +6,17 @@ Life Cycle of this project -
 Figuring out the problem statement -> Data Collections -> Data Cleaning -> EDA -> Data Pre-processing -> Model Training -> Choosing the best models out.
 
 Skills used to work on this project - 
-<br>Python
-Pandas
-NumPy
-Os + sys
-Seaborn
-Matplotlib
-Scikit-learn
-Dill
-Catboost
-Xgboost
-Flask
-Gunicorn
-HTML </br>
-
+Python,
+Pandas,
+NumPy,
+Os + sys,
+Seaborn,
+Matplotlib,
+Scikit-learn,
+Dill,
+Catboost,
+Xgboost,
+Flask,
+Gunicorn,
+HTML.
 Project Link - https://ml-project-olzr.onrender.com
